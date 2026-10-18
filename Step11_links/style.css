@@ -1,0 +1,23 @@
+.links {
+    background: #f2f2f2;
+    color: #616161;
+    padding: 35px 0;
+    height: auto;
+    font-size: 12px;
+    border: none;
+}
+ 
+.links-inner {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
+}
+ 
+.links-inner li {
+    list-style: none;
+    line-height: 2.8;
+}
+ 
