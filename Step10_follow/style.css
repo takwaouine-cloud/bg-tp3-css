@@ -1,0 +1,18 @@
+.follow {
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: auto;
+    padding: 10px 0;
+}
+ 
+.follow * {
+    margin-right: 10px;
+}
+ 
+.follow span {
+    color: #000;
+    font-size: 30px;
+}
+ 
